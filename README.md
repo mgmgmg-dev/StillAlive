@@ -12,7 +12,7 @@ This project recreates portal's ending as closely as you can get on a standard c
 2. Type `python3 main.py` and hit enter.
 
 ## Help, I'm on a unix-based system
-You need to install python for your system and install the `playsound` library, then run `main.py` with that python installation.
+You need to install python for your system and install the `playsound` library, then run `StillAlive.py` with that python installation.
 
 > ***WARNING:*** If you've got a fresh installation, you will most likely encounter an error while building `wheel`. To resolve this error, make sure to have installed the latest version of the `setuptools` and `wheel` libraries.
 
