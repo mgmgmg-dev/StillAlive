@@ -120,6 +120,7 @@ def main():
 # Print§Line§Text
 # Slow§Line§TimeInMs§PreviousText§ProgressingText
 # Wait§TimeInMs
+# Draw§imageIndex
 # Clear
 # Up
 # Music
